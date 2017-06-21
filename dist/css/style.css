@@ -1,0 +1,12 @@
+body{
+  background: grey;
+}
+
+.panels p{
+  display: -webkit-box;
+  display: flex;
+  transition: all 0.3s ease;
+  color:green;
+  font-size: 23px;
+  display: inline-block;
+}
